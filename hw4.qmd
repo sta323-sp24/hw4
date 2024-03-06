@@ -30,13 +30,15 @@ author:
 ## Task 3 - Distance Analysis
 
 ```{r load_data}
-dennys = readRDS("data/dennys.rds")
-lq = readRDS("data/lq.rds")
+(dennys = readRDS("data/dennys.rds"))
+(lq = readRDS("data/lq.rds"))
 ```
 
 <!-- Detail your statistical analysis of the pairwise distance between Denny's and LQ's locations -->
 
 ```{r analysis}
+
+
 ```
 
 
